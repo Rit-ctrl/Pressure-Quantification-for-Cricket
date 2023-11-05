@@ -3,3 +3,5 @@ data
 .DS_Store
 ipl_csv2.zip
 ipl_csv2
+*.pyc
+
