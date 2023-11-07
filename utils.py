@@ -26,4 +26,13 @@ def process_df(df:pd.DataFrame,useful_columns = ['match_id', 'season', 'venue', 
     df_cleaned.fillna(dict.fromkeys(extra_cols,0),inplace=True)
     df_cleaned = df_cleaned.loc[(df_cleaned.noballs == 0) & (df_cleaned.wides == 0)] #select only those that are not noballs or wides
 
+    season = df_cleaned.season.unique()[0] 
+    if season == '2020/21':
+        df_cleaned['season'] = 2020
+    elif season ==  '2007/08':
+        df_cleaned['season'] = 2008
+    elif season ==  '2009/10':
+        df_cleaned['season'] = 2010
+
+
     return df_cleaned
