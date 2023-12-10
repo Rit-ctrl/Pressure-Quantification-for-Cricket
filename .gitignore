@@ -4,4 +4,7 @@ data
 ipl_csv2.zip
 ipl_csv2
 *.pyc
-
+pressure_model_v2.pt
+pressure_model.pt
+__pycache__/
+*.sav
