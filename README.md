@@ -1,4 +1,5 @@
-# Expected-Runs
-Predicting the runs scored per ball for cricket matches 
+#  Quantifying Pressure in Cricket for building Expected Runs model
 
-Work in Progress
+- Utilise LSTM model to build pressure index
+- Combine this with current state variables to predict runs scored
+  
