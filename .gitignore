@@ -8,3 +8,4 @@ pressure_model_v2.pt
 pressure_model.pt
 __pycache__/
 *.sav
+Discarded/
