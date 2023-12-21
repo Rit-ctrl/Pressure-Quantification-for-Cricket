@@ -7,7 +7,7 @@
 - Combine this with current state variables to predict runs scored
 - Use other methods from literature
 - Build models without previous state information to ascertain if pressure is useful for predicting runs scored
-- IPL play-by-play data obtained from Cricsheet.com
+- IPL play-by-play data obtained from [Cricsheet.org](https://cricsheet.org)
 - Train on IPL seasons 2008-2021, test on 2022-2023 
 - Compare Mean squared error for the models to evaluate
 
