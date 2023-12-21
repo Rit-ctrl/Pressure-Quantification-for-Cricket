@@ -1,6 +1,6 @@
 #  Quantifying Pressure in Cricket for building Expected Runs model
 
-![Flowchart of proposed model]()
+![Flowchart of proposed model](flowchart_page-0001.jpg)
 
 ## Agenda 
 - Utilise LSTM model to build pressure index
