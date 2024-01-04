@@ -10,6 +10,8 @@
 - IPL play-by-play data obtained from [Cricsheet.org](https://cricsheet.org)
 - Train on IPL seasons 2008-2021, test on 2022-2023 
 - Compare Mean squared error for the models to evaluate
+  <img width="569" alt="image" src="https://github.com/Rit-ctrl/Pressure-Quantification-for-Cricket/assets/53635318/6bef5314-4a7c-4497-8bac-6c560f0c4c89">
+
 
 ## Code structure
 
