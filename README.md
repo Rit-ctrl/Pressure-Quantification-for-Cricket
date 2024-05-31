@@ -1,6 +1,7 @@
 #  Quantifying Pressure in Cricket for building Expected Runs model
 
-Update: The recipe data project can be found here - [https://github.com/Rit-ctrl/Recipe-Data-Analysis](https://github.com/Rit-ctrl/Recipe-Data-Analysis).
+## Update: The recipe data project can be found here - [https://github.com/Rit-ctrl/Recipe-Data-Analysis](https://github.com/Rit-ctrl/Recipe-Data-Analysis).
+
 Sorry for the inconvenience 
 
 ![Flowchart of proposed model](flowchart_page-0001.jpg)
